@@ -22,16 +22,11 @@ Dogs and cats of all shapes and sizes, many of them family pets still wearing th
 
 ## Legal Protection of Domestic Animals
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+Many developed countries have formulated animal protection laws, focusing on protecting domestic animals.
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thiago Rossener</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+The Federal Animal Protection Act of the United States stipulates that maltreating dogs is subject to economic penalties or legal sanctions, and even imprisonment. Except for the passage of the Federal Animal Protection Act by the United States Congress, almost every state and even small town in the United States has corresponding laws and regulations for dog ownership. Even in residential areas, there are some own "township rules and regulations". Each state's laws require sufficient space to be left when tying dogs, and dogs cannot be locked in relatively narrow areas. The regulations of the Animal Protection Association stipulate that the owner or guardian of a dog shall not allow the dog to stay at home alone for more than 10 hours.
 
-Most of these elements are styled by browsers with few modifications on our part.
+The UK passed the Animal Protection Act as early as 1911, and has since introduced more laws such as the Zoo Animal Protection Act, Wildlife Protection Act, Experimental Animal Protection Act, and Livestock Transport Act. Violation may result in prosecution, fines, or even imprisonment. People who abuse Cruelty to animals will be prohibited from raising any animals for a period of time or for life.
 
 # Heading 1
 
