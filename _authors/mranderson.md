@@ -5,9 +5,9 @@ name: mranderson
 display_name: Benjamin Dogg
 position: The One
 bio: I love dogs and cats!
-github_username: github_username
+github_username: Yukikaze924
 facebook_username: facebook_username
-twitter_username: twitter_username
+twitter_username: AbccSss
 instagram_username: instagram_username
 linkedin_username: linkedin_username
 medium_username: medium_username
