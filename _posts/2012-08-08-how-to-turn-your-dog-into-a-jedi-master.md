@@ -1,8 +1,8 @@
 ---
 date: 2018-02-03 12:26:40
 layout: post
-title: How to turn your dog into a Jedi master
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+title: Why animal protection laws are needed
+subtitle: The necessity, benefits, and room for improvement of animal protection laws.
 description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knvabs.jpg
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
@@ -14,11 +14,11 @@ tags:
 author: mranderson
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+Life for millions of dogs and cats in China is dangerous. Some are abandoned pets, left to fend for themselves after being dumped by their owners. Many are strays born on the streets.Government authorities organise brutal killing campaigns in an attempt to reduce stray dog and cat populations. Animals Asia has rescued many dogs, cats, puppies and kittens who have suffered horrendous abuse at the hands of people who see them as 'pests' — such as puppy abuse, when the dog pictured below was scalded with boiling water and thrown from a high rise building. And kitten abuse, with a disabled kitten abandoned on the streets. And these are not the only dangers they face…
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+> According to the International Humanitarian Association, approximately 10 million dogs and 4 million cats are killed and consumed in China every year, including some stolen pets. Yulin City in Guangxi holds a dog meat festival every June
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+Dogs and cats of all shapes and sizes, many of them family pets still wearing their collars, are snatched from the streets and forced into tiny cages. Many suffer broken limbs as they are transported vast distances, without food or water, to meat markets.
 
 ## Inline HTML elements
 
