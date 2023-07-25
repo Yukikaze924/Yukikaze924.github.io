@@ -2,7 +2,7 @@
 layout: author
 photo: /assets/img/uploads/profile.png
 name: mranderson
-display_name: Mr.Anderson
+display_name: Mr.Dogg
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
 github_username: github_username
