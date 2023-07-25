@@ -28,15 +28,15 @@ The Federal Animal Protection Act of the United States stipulates that maltreati
 
 The UK passed the Animal Protection Act as early as 1911, and has since introduced more laws such as the Zoo Animal Protection Act, Wildlife Protection Act, Experimental Animal Protection Act, and Livestock Transport Act. Violation may result in prosecution, fines, or even imprisonment. People who abuse Cruelty to animals will be prohibited from raising any animals for a period of time or for life.
 
-# Heading 1
+French cats and dogs are happier, as they all need to register, file, and obtain health certificates. They even have identification numbers.
 
-## Heading 2
+## Where to go for non domestic animals
 
-### Heading 3
+At present, many countries have promulgated relevant laws to protect wild animals, but basically to maintain Balance of nature. For example, the Indian government has passed a "Tiger Constitution", which stipulates that tigers cannot be arbitrarily hunted and killed, and violators will be punished in accordance with the law; The UK has passed a law prohibiting the hunting of bats and requiring the protection of bat nests, with violators fined £ 1000; China also has a Wildlife Protection Law, and recently, due to the impact of the epidemic, legislation has been strengthened. But there are few protections for animals based on their own status and rights.
 
-#### Heading 4
+The concept of "Animal welfare" is introduced here. "Animal welfare" was first proposed by Hughes, an American scholar, in 1976. It refers to "a state of complete mental and physical health in which animals are in harmony with their environment." (New Exploration of Ecological Law) Animal welfare, especially the living conditions of animals, refers to all animals, not just domestic animals. The emergence of Animal welfare is the product of the development of human civilization and the improvement of human thought, laying the foundation for the protection of the basic survival rights of all animals (not only animals close to humans).
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+In the absence of a clear legal regulation, there are many arguments about Cruelty to animals. Some people believe that people who interfere with Cruelty to animals have no legal basis and may violate the privacy of the abuser (abuse at home). Indeed, the prohibition of Cruelty to animals can only be regarded as morality, but for correct morality with significant social impact, efforts should be made to raise it to the law.
 
 ## Code
 
