@@ -8,9 +8,9 @@ image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme8_knva
 optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme8_knvabs.jpg
 category: tutorial
 tags:
-  - jedi
-  - doggo
-  - starwars
+  - cat
+  - dog
+  - animal rights
 author: mranderson
 ---
 
@@ -20,7 +20,7 @@ Life for millions of dogs and cats in China is dangerous. Some are abandoned pet
 
 Dogs and cats of all shapes and sizes, many of them family pets still wearing their collars, are snatched from the streets and forced into tiny cages. Many suffer broken limbs as they are transported vast distances, without food or water, to meat markets.
 
-## Inline HTML elements
+## Legal Protection of Domestic Animals
 
 HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
 
