@@ -11,7 +11,7 @@ tags:
   - cat
   - dog
   - animal rights
-author: mranderson
+author: Benjamin Dogg
 ---
 
 Life for millions of dogs and cats in China is dangerous. Some are abandoned pets, left to fend for themselves after being dumped by their owners. Many are strays born on the streets.Government authorities organise brutal killing campaigns in an attempt to reduce stray dog and cat populations. Animals Asia has rescued many dogs, cats, puppies and kittens who have suffered horrendous abuse at the hands of people who see them as 'pests' — such as puppy abuse, when the dog pictured below was scalded with boiling water and thrown from a high rise building. And kitten abuse, with a disabled kitten abandoned on the streets. And these are not the only dangers they face…
@@ -38,40 +38,17 @@ The concept of "Animal welfare" is introduced here. "Animal welfare" was first p
 
 In the absence of a clear legal regulation, there are many arguments about Cruelty to animals. Some people believe that people who interfere with Cruelty to animals have no legal basis and may violate the privacy of the abuser (abuse at home). Indeed, the prohibition of Cruelty to animals can only be regarded as morality, but for correct morality with significant social impact, efforts should be made to raise it to the law.
 
-## Code
+## Legislative Attempts in China
 
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
+In 2009, China proposed the "Animal Protection Law" (draft) with the bottom line of anti abuse ethics. The Animal Protection Law (proposed draft) is divided into twelve chapters, which provide detailed regulations on the legal protection of animal epidemic prevention and medical treatment, wild animals, economic animals, pet animals, experimental animals, and other animals. It also stipulates the legal protection of animal transportation and slaughter, as well as international cooperation in animal protection. Finally, it focuses on the legal responsibility section. The project team leader and chief drafting expert, Chang Jiwen, stated that the law is expected to be passed within 10 years.
 
-```js
-// Example can be run directly in your JavaScript console
+Chang Jiwen believed that China has always lacked a comprehensive basic law on animal protection. The animal protection system is not sound, nor does it reflect the moral tradition of compassion for life that has been consolidated and developed by the Chinese nation for thousands of years. It does not reflect the requirements of international treaties and declarations that China has joined or signed on the protection of the intrinsic value of biology. It is difficult to punish some acts of abandoning or abusing animals and endangering social order, Not conducive to social harmony and stability. From the perspective of environmental protection, since animals may cause Environmental disaster between humans and animals, protecting animals through legislation can prevent breeding pollution and maintain public safety, which is also an important reason why the Animal Protection Law needs to be promulgated. He particularly emphasized that the Animal Protection Law (draft proposal) emphasized animal protection rather than Animal rights, and that human beings were the subject and animals were the object.
 
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
+Unfortunately, this proposal did not receive the proper treatment and gradually disappeared. China in 2020 is no longer economically underdeveloped a decade ago, and animal protection issues urgently need to be addressed.
 
-// Call the function
-adder(2, 6);
-// > 8
-```
+## Conclusion
 
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
+It is impossible to imagine what kind of situation the society will take once Cruelty to animals becomes a common phenomenon from a single case. The entire society is often filled with blood and violence, and those who love animals cannot stop them when they see weak animals being slaughtered. Darkness triumphs over justice and kindness. I don't believe that my children can grow up happily and safely in such a society when people who are accustomed to Cruelty to animals but no one can control extend their hands to others. This is not what a good society should look like.
 
 ## Images
 
@@ -81,45 +58,7 @@ Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliqua
 ![placeholder](https://placehold.it/400x200 "Medium example image")
 ![placeholder](https://placehold.it/200x200 "Small example image")
 
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
+STOP ANIMAL CRUELTY! ALL LIFES MATTER!
 
 
 
