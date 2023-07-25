@@ -1,0 +1,125 @@
+[
+  
+  
+  
+    {
+      "title"    : "Welcome to the desert of the real",
+      "tags"     : "welcome and blog",
+      "categories" : "blog",
+      "url"      : "/welcome-to-the-desert-of-the-real/",
+      "date"     : "05/17/2019"
+    } ,
+  
+    {
+      "title"    : "Why books should be your priority?",
+      "tags"     : "books and read",
+      "categories" : "life",
+      "url"      : "/why-books-should-be-your-priority/",
+      "date"     : "11/22/2018"
+    } ,
+  
+    {
+      "title"    : "The quick brown fox jumps over a lazy dog",
+      "tags"     : "css and tips",
+      "categories" : "css",
+      "url"      : "/the-quick-brown-fox-jumps-over-a-lazy-dog/",
+      "date"     : "10/09/2018"
+    } ,
+  
+    {
+      "title"    : "A wonderful serenity has taken possession of my entire soul",
+      "tags"     : "platform, javascript, and vscode",
+      "categories" : "code",
+      "url"      : "/a-wonderful-serenity-has-taken-possession-of-my-entire-soul/",
+      "date"     : "07/20/2018"
+    } ,
+  
+    {
+      "title"    : "Candy, candies, candy!",
+      "tags"     : "food and tips",
+      "categories" : "diet",
+      "url"      : "/candy-candies-candy/",
+      "date"     : "04/21/2018"
+    } ,
+  
+    {
+      "title"    : "Trust me, it will work",
+      "tags"     : "languages and tips",
+      "categories" : "tips",
+      "url"      : "/trust-me-it-will-work/",
+      "date"     : "03/12/2018"
+    } ,
+  
+    {
+      "title"    : "How to turn your dog into a Jedi master",
+      "tags"     : "jedi, doggo, and starwars",
+      "categories" : "tutorial",
+      "url"      : "/how-to-turn-your-dog-into-a-jedi-master/",
+      "date"     : "02/03/2018"
+    } ,
+  
+    {
+      "title"    : "Let flexbox work for you or perish",
+      "tags"     : "css and frontend",
+      "categories" : "css",
+      "url"      : "/let-flexbox-work-for-you-or-perish/",
+      "date"     : "08/15/2017"
+    } ,
+  
+    {
+      "title"    : "A star has fallen from the sky and the cat ate it",
+      "tags"     : "crazy and story",
+      "categories" : "music",
+      "url"      : "/a-star-has-fallen-from-the-sky-and-the-cat-ate-it/",
+      "date"     : "08/08/2017"
+    } ,
+  
+    {
+      "title"    : "Smoke alert",
+      "tags"     : "jekyll, wordpress, and blog",
+      "categories" : "blog",
+      "url"      : "/smoke-alert/",
+      "date"     : "07/29/2017"
+    } ,
+  
+    {
+      "title"    : "Do you believe that a spider can dance?",
+      "tags"     : "fate and travel",
+      "categories" : "travel",
+      "url"      : "/do-you-believe-that-a-spider-can-dance/",
+      "date"     : "06/08/2017"
+    } ,
+  
+    {
+      "title"    : "A cook cries in the rain at night",
+      "tags"     : "cook, cucine, and story",
+      "categories" : "diet",
+      "url"      : "/a-cook-cries-in-the-rain-at-night/",
+      "date"     : "06/04/2017"
+    } ,
+  
+    {
+      "title"    : "Grab your band and get out",
+      "tags"     : "music, band, and passion",
+      "categories" : "music",
+      "url"      : "/grab-your-band-and-get-out/",
+      "date"     : "05/11/2017"
+    } ,
+  
+    {
+      "title"    : "Passion is dangerous, go for it!",
+      "tags"     : "work and career",
+      "categories" : "work",
+      "url"      : "/passion-is-dangerous-go-for-it/",
+      "date"     : "09/06/2015"
+    } ,
+  
+    {
+      "title"    : "Birds can fly, but this you knew already",
+      "tags"     : "life and tips",
+      "categories" : "life",
+      "url"      : "/birds-can-fly-but-this-you-knew-already/",
+      "date"     : "09/10/2010"
+    } 
+  
+]
