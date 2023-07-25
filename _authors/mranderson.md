@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: mranderson
 display_name: Benjamin Dogg
 position: The One
-bio: Bulletproof hacker passionate about leather clothes.
+bio: I love dogs and cats!
 github_username: github_username
 facebook_username: facebook_username
 twitter_username: twitter_username
