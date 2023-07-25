@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: Yukikaze
+name: mranderson
 display_name: Benjamin Dogg
 position: The One
 bio: Bulletproof hacker passionate about leather clothes.
