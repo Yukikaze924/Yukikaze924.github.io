@@ -5,7 +5,7 @@ title: "另类的爱"
 subtitle:
 description:
 image: https://picsum.photos/399/760
-optimized_image: https://picsum.photos/399/760
+optimized_image:
 category:
 tags:
     - pet
