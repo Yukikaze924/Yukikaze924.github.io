@@ -11,7 +11,7 @@ tags:
   - cat
   - dog
   - animal rights
-author: mranderson
+author: yukikaze
 ---
 
 Life for millions of dogs and cats in China is dangerous. Some are abandoned pets, left to fend for themselves after being dumped by their owners. Many are strays born on the streets.Government authorities organise brutal killing campaigns in an attempt to reduce stray dog and cat populations. Animals Asia has rescued many dogs, cats, puppies and kittens who have suffered horrendous abuse at the hands of people who see them as 'pests' — such as puppy abuse, when the dog pictured below was scalded with boiling water and thrown from a high rise building. And kitten abuse, with a disabled kitten abandoned on the streets. And these are not the only dangers they face…
