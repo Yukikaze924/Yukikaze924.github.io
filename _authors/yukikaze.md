@@ -1,7 +1,7 @@
 ---
 layout: author
 photo: /assets/img/uploads/profile.png
-name: mranderson
+name: yukikaze
 display_name: Benjamin Dogg
 position: Canada
 bio: I love dogs and cats!
