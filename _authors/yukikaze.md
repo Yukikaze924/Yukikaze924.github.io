@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/yukikaze.png
 name: yukikaze
 display_name: Benjamin Dogg
 position: Canada
