@@ -3,13 +3,12 @@ layout: author
 photo: /assets/img/uploads/profile.png
 name: mranderson
 display_name: Benjamin Dogg
-position: The One
+position: Canada
 bio: I love dogs and cats!
 github_username: Yukikaze924
 facebook_username: facebook_username
 twitter_username: BenjaminWi6190
 instagram_username: instagram_username
-
 medium_username: medium_username
 ---
 
