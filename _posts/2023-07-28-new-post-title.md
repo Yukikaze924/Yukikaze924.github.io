@@ -4,7 +4,7 @@ layout: post
 title: "另类的爱"
 subtitle:
 description:
-image: https://picsum.photos/399/760
+image: https://picsum.photos/760/399
 optimized_image:
 category:
 tags:
