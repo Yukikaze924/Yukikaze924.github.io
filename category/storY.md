@@ -1,6 +1,6 @@
 ---
 layout: category
 title: STORY
-slug: storY
+slug: story
 description: A category for CSS related posts.
 ---
