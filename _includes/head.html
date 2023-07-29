@@ -12,7 +12,12 @@
         {% assign title = site.title %}
     {% endif %}
 
-    {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
+    {% assign image = '' %}
+    {% if page.image %}
+        {% assign image = page.image %}
+    {% else %}
+        {% assign image = "/assets/img/blog-image.png" | prepend: site.baseurl | prepend: site.url %}
+    {% endif %}
 
     {% assign description = '' %}
     {% if page.description %}
