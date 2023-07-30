@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <title>CDRP | Support us with crypto</title>
+        <title>CDRP | Support us with crypto!</title>
         <link rel="stylesheet" href="style.css">
     </head>
     <body>
@@ -12,8 +12,23 @@
                 <img src="tick.png">
                 <h2>Support us with crypto!</h2>
                 <p title="Ethereum Mainnet">0x2D947fA986EeDEa59c5D960506A5Eb5Cb0E00312</p>
-                <button type="button" class="confirm" onclick="window.location.href='https://yukikaze924.github.io'">Confirm</button>
+                <button type="button" class="confirm" title="Confirm" window.location.href='https://yukikaze924.github.io'">Confirm</button>
             </div>
         </div>
+        <script src="https://cdn.jsdelivr.net/npm/web3@1.5.2/dist/web3.min.js">
+            if (typeof web3 !== 'undefined') {
+                web3 = new Web3(web3.currentProvider);
+            } else {
+            // 如果MetaMask未安装或未连接，您可以提示用户安装MetaMask或使用以太坊浏览器
+                alert("Please install MetaMask or use an Ethereum-compatible browser.");
+            }
+            web3.eth.getAccounts((error, accounts) => {
+            if (error) {
+                console.error(error);
+            } else {
+                console.log("User address:", accounts[0]);
+            }
+            });
+        </script>
     </body>
 </html>
