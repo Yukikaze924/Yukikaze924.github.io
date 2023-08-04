@@ -1,6 +1,6 @@
 ---
 layout: author
-photo: /assets/img/uploads/profile.png
+photo: /assets/img/uploads/hakuryuu.png
 name: hakuryuu
 display_name: Guo
 position: Tin Seoi Wai, Jyun Long, Hong Kong
