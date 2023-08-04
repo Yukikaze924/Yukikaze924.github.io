@@ -3,7 +3,7 @@ layout: author
 photo: /assets/img/uploads/yukikaze.png
 name: yukikaze
 display_name: Benjamin Dogg
-position: Vancouver, British Columbia, Canada
+position:  643, 1231 Pacific Blvd Suite, #643Vancouver, BC, Canada
 bio: I love dogs and cats!
 github_username: Yukikaze924
 facebook_username: facebook_username
