@@ -1,5 +1,5 @@
 ---
-date: 2020-11-14 12:26:40
+date: 2022-11-14 06:09:24
 layout: post
 title: Why animal protection laws are needed
 subtitle: The necessity, benefits, and room for improvement of animal protection laws.
