@@ -4,7 +4,7 @@ photo: /assets/img/uploads/profile.png
 name: hakuryuu
 display_name: Guo
 position: Tin Seoi Wai, Jyun Long, Hong Kong
-bio: I love dogs and cats!
+bio: this guy has no bio yet!
 github_username: none
 facebook_username: none
 twitter_username: none
