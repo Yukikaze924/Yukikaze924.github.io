@@ -8,6 +8,6 @@ bio: this guy has no bio yet!
 github_username: hakuryuu25500
 facebook_username: none
 twitter_username: hyw82532389
-instagram_username: none
+instagram_username: hyw82532389
 medium_username: none
 ---
