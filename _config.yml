@@ -1,6 +1,6 @@
 # Site Settings
-name: CDRP
-title: CDRP | Cat and Dog Rights Protection
+name: CARP
+title: CARP | Companion Animal Rights Protection
 description: Speak up for animals who cannot speak like us
 tags:
   - blog
@@ -8,7 +8,7 @@ tags:
   - jekyll
   - theme
   - netlify
-show_hero: true
+show_hero: false
 menu:
   - title: Home
     url: /
